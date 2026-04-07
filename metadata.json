@@ -1,0 +1,5 @@
+{
+  "name": "UniCode",
+  "description": "A highly customizable QR Code generator inspired by qr-code-styling.com, featuring real-time preview and multiple styling options.",
+  "requestFramePermissions": ["camera"]
+}
